@@ -21,6 +21,12 @@ header {
 header h1 {
   color: #fff;
   font-family: "McLaren", cursive;
+  font-weight: 550;
+}
+
+header h5 {
+  color: #000000;
+  font-family: "McLaren", cursive;
   font-weight: 200;
 }
 
