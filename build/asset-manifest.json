@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Mindport/static/js/main.e34056df.js",
+    "main.js": "/Mindport/static/js/main.c93580b3.js",
     "index.html": "/Mindport/index.html",
-    "main.e34056df.js.map": "/Mindport/static/js/main.e34056df.js.map"
+    "main.c93580b3.js.map": "/Mindport/static/js/main.c93580b3.js.map"
   },
   "entrypoints": [
-    "static/js/main.e34056df.js"
+    "static/js/main.c93580b3.js"
   ]
 }
