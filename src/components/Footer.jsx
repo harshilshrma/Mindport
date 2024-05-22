@@ -9,6 +9,9 @@ function Footer() {
             <p>
                 Copyright &copy; {year} MindPort
             </p>
+            <p>
+                Copyright &copy; {year} MindPort
+            </p>
         </footer>
     )
 }
