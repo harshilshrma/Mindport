@@ -8,11 +8,15 @@ function Header() {
                 <h5>A portal for your thoughts.</h5>
             </div>
             <div>
-                <a 
+                <a
                     href="https://github.com/harshilshrma/Mindport"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{textDecoration: "none", fontFamily: "Montserrat"}}
+                    style={{
+                        textDecoration: "none",
+                        fontFamily: "Montserrat",
+                        fontWeight: "bold",
+                    }}
                 >
                     GitHub ↗
                 </a>
