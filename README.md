@@ -1,8 +1,8 @@
-<img src="./github_cover.png" width="100%">
+<img src="./resources/github_cover.png" width="100%">
 
 # MindPort 📝 - A portal for your thoughts
 
-[<img src="./github_icon.png" width="50px" alt="notes-icon">](https://harshilshrma.github.io/Mindport/)<em>&nbsp; (Tap on these notes to view the project)</em></span>
+[<img src="./resources/github_icon.png" width="50px" alt="notes-icon">](https://harshilshrma.github.io/Mindport/)<em>&nbsp; (Tap on these notes to view the project)</em></span>
 
 <br>
 
@@ -57,7 +57,7 @@ Thanks for checking out MindPort, your go-to app for organizing thoughts and ide
 Feel free to explore the code, contribute, or use it for educational purposes. Your feedback and contributions are immensely valuable.
 
 <p align="center">
-  <img src="./ending-gif.gif" alt="meme GIF" width="250" />
+  <img src="./resources/ending-gif.gif" alt="meme GIF" width="250" />
 </p>
 
 <p align="center">
