@@ -10,7 +10,7 @@ function Footer() {
                 Copyright &copy; {year} MindPort
             </p>
             <p>
-                Copyright &copy; {year} MindPort
+            Keep noting down those ideas! 📝✨ And give this project a star on <a href="https://github.com/harshilshrma/Mindport" target="_blank" rel="noopener noreferrer">GitHub ↗</a> to show your support!⭐️
             </p>
         </footer>
     )
